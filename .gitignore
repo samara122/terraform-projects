@@ -1,0 +1,4 @@
+project1/.terraform.lock.hcl
+project1/*.tfstate*
+project2/.terraform.lock.hcl
+project1/.terraform
